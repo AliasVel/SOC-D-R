@@ -119,7 +119,7 @@ I then checked into LimaCharlie for the logs for the lsass dump. <br />
 
 LimaCharlie offers detection and response. Based on the information at hand, I created a detection and response rule. <br />
 <img src="https://i.imgur.com/7zyDPIG.png" height="80%" width="80%" alt="creating detection and response alert in LimaCharlie"/> <br />
-The rule calls for detection of any event involving SENSITIVE_PROCESS_ACCESS and target process ending in lsass.exe. In this lab in particular, the response section tells LimaCharlie to create an alert labeled "report".
+The rule calls for detection of any event involving SENSITIVE_PROCESS_ACCESS and target process ending in lsass.exe. In this lab in particular, the response section tells LimaCharlie to create an report labeled as LSASS access.
 
 <br />
 I then tested the rule. <br />
