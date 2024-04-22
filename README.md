@@ -1,4 +1,4 @@
-<h1>EDR With LimaCharlie</h1>
+<h1>So you want to be a SOC Analyst? - SOC homelab</h1>
 
 <h2>Description</h2>
 Based on the blog post <a href="https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro?sd=pf"> So you want to be a SOC Analyst? by ERIC CAPUANO</a>. <br />
